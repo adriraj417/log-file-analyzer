@@ -44,19 +44,7 @@ Number of ERROR messages
 
 Most frequent error messages
 
-🧾 Example Output
 
-2025-12-21 10:10:01 INFO Server started
-
-2025-12-21 10:12:15 WARNING High memory usage
-
-2025-12-21 10:13:45 ERROR Database connection failed
-
-2025-12-21 10:14:20 INFO User logged in
-
-2025-12-21 10:15:10 ERROR Disk not found
-
-2025-12-21 10:16:00 WARNING CPU temperature high
 
 🛠️ Technologies Used
 
